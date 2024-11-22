@@ -1,6 +1,6 @@
 # Hello from Precious 👋
 
-## 🤝 I’m looking for internships or work student job in the city of Antwerp or nearby.
+## 🤝 I’m looking for internships or work student job in the state of Antwerp or nearby.
 ## 📧 How to reach me: <a href="mailto:precious.ajomole@outlook.com">Send me an e-mail</a>
 
 <div>
