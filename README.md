@@ -7,7 +7,7 @@
     <pre style="text-align: center">-------------------------------------------------- My coding stats ---------------------------------------------------</pre>
 </div>
 <div>
-    <img width=480 src="https://github-readme-stats.vercel.app/api?username=ajomoleprecious&show_icons=true&theme=onedark&border_radius=65&include_all_commits=true&rank_icon=percentile&text_bold=true" alt="top_langs" />
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=ajomoleprecious&show_icons=true&theme=onedark&border_radius=65&include_all_commits=true&rank_icon=percentile&text_bold=true" alt="top_langs" />
     <img width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=@ajomoleprecious&theme=onedark&show_icons=true&text_bold=true&border_radius=65&layout=compact" alt="waka_time_stats" />
 </div>
 <div>
