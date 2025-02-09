@@ -1,6 +1,6 @@
 # Hello from Precious 👋
 
-## 📧 How to reach me: <a href="mailto:precious.ajomole@outlook.com">Send me an e-mail</a>
+## 📧 <a href="mailto:precious.ajomole@outlook.com">Send me an e-mail</a>
 
 <!--<div>
     <pre style="text-align: center">-------------------------------------------------- My coding stats ---------------------------------------------------</pre>
