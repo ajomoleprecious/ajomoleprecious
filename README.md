@@ -2,6 +2,10 @@
 
 ## 📧 <a href="mailto:precious.ajomole@outlook.com">Send me an e-mail</a>
 
+<div align="center">
+    <img width=350 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9mYXhjM2N5NTRsbjR6c2phNXd2amx5MWJlZGdrNm9yd2d4YmJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="coding_meme" />
+</div>
+
 <!--<div>
     <pre style="text-align: center">-------------------------------------------------- My coding stats ---------------------------------------------------</pre>
 </div>
